@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="FileWhisperer",
+    name="WhisperTranslate",
     version="1.0",
     packages=find_packages(),
     install_requires=[
@@ -15,6 +15,6 @@ setup(
     python_requires=">=3.7",
     author="Opera von der Vollmer",
     description="Script for manipulating metadata of files",
-    url="https://github.com/OperavonderVollmer/FileWhisperer", 
+    url="https://github.com/OperavonderVollmer/WhisperTranslate", 
     license="MIT",
 )
