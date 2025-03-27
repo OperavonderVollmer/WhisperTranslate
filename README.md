@@ -39,7 +39,7 @@ WhisperTranslate is a Python package designed for translating file names and met
 ### Installing via pip:
 
 ```sh
-pip install git+https://github.com/OperavonderVollmer/WhisperTranslate.git@latest
+pip install git+https://github.com/OperavonderVollmer/WhisperTranslate.git@main
 ```
 
 Ensure that all necessary dependencies are installed in your environment.
