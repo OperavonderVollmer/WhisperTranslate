@@ -9,7 +9,7 @@ setup(
         "python-magic-bin",
         "pillow",
         "deep-translator",
-        "OperaPowerRelay @ git+https://github.com/OperavonderVollmer/OperaPowerRelay.git@v1.1.2",
+        "OperaPowerRelay @ git+https://github.com/OperavonderVollmer/OperaPowerRelay.git@main",
         "FileWhisperer @ git+https://github.com/OperavonderVollmer/FileWhisperer@main",
     ],
     python_requires=">=3.7",

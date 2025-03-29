@@ -2,5 +2,5 @@ pytaglib
 python-magic-bin
 pillow
 deep-translator
-git+https://github.com/OperavonderVollmer/OperaPowerRelay.git@v1.1.2
+git+https://github.com/OperavonderVollmer/OperaPowerRelay.git@main
 git+https://github.com/OperavonderVollmer/FileWhisperer@main
